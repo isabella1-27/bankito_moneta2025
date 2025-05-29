@@ -1,0 +1,54 @@
+{
+    "isabella127": {
+        "password": "angelica19",
+        "full_name": "isabella lopez ardila",
+        "email": "isabella.ardila2007@gmail.com",
+        "birth_date": "01/01/2007",
+        "gender": "Female",
+        "wallet_balance": 1202000.0,
+        "wallet_history": [
+            {
+                "fecha": "05/28/2025",
+                "tipo": "Income",
+                "monto": 1000000.0,
+                "categoria": "N/A"
+            },
+            {
+                "fecha": "05/28/2025",
+                "tipo": "Expense",
+                "monto": -30000.0,
+                "categoria": "N/A"
+            },
+            {
+                "fecha": "5/28/2025",
+                "tipo": "Income",
+                "monto": 2000.0,
+                "categoria": "Others"
+            },
+            {
+                "fecha": "5/28/2025",
+                "tipo": "Income",
+                "monto": 300000.0,
+                "categoria": "Salary"
+            },
+            {
+                "fecha": "5/28/2025",
+                "tipo": "Expense",
+                "monto": -70000.0,
+                "categoria": "Cats"
+            }
+        ],
+        "custom_categories": [
+            "Cats"
+        ]
+    },
+    "1": {
+        "password": "1",
+        "full_name": "1",
+        "email": "1",
+        "birth_date": "1",
+        "gender": "1",
+        "wallet_balance": 0,
+        "wallet_history": []
+    }
+}
